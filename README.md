@@ -28,7 +28,7 @@
 ### เพิ่มปุ่ม scroll ไปล่างสุดและไปบนสุด
 
 ## ดูผลลัพธ์
-### [เปิดหน้าเว็บ](https://nimble-halva-ea728e.netlify.app/)
+### [เปิดหน้าเว็บ](https://precious-cocada-497700.netlify.app/)
 
 #
-## [เอกสาร](https://docs.google.com/document/d/1_uOD7wGJ4a9AEog13qBkNqSiBoQHNbyaOzHGwkTwYtM/edit?usp=sharing)
+## [เอกสาร](https://docs.google.com/document/d/1rUOQPavqF8k8ka0oo-IV8GO1e1_7D-goTXVvZ6N-xS4/edit?tab=t.0)
