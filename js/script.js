@@ -43,13 +43,13 @@ window.addEventListener('scroll', () => {
 const contactForm = document.querySelector('.contact-form');
 contactForm.addEventListener('submit', (e) => {
     e.preventDefault();
-    
+
     // Get form data
     const formData = new FormData(contactForm);
     const name = formData.get('name');
     const email = formData.get('email');
     const message = formData.get('message');
-    
+
     // Simple validation
     if (name && email && message) {
         alert('Thank you for your message! I will get back to you soon.');
@@ -57,4 +57,16 @@ contactForm.addEventListener('submit', (e) => {
     } else {
         alert('Please fill in all fields.');
     }
+
 });
+const profileImg = document.getElementById('profileImage');
+const images = [
+    'images/profile-slide img1.jpg',
+    'images/profile-slide img2.jpg',
+];
+let current = 0;
+
+setInterval(() => {
+    current = (current + 1) % images.length;
+    profileImg.src = images[current];
+}, 2500); // เปลี่ยนทุก 3 วินาที
