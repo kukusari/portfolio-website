@@ -6,7 +6,13 @@
     ├── css/
     │   └── style.css 
     ├── images/
-    │   └── (รูปต่างๆ)
+    │   └── about.jpg
+    │   └── profile.jpg
+    │   └── profile-slide img1.jpg
+    │   └── profile-slide img2.jpg
+    │   └── project1.jpg
+    │   └── project2.jpg
+    │   └── project3.jpg
     ├── js/
     │   └── script.js
     ├── index.html
